@@ -1,6 +1,11 @@
 # supermarket-capstone-2
 capstone module 2 : supermarket analysis
 
+#### **Dataset Supermarket Source**
+For the datasource of of the csv file, please refer to the link:
+[here](https://drive.google.com/drive/folders/1WodnBbuYTvsF0-6HTuQABQ0KCS31lqbK)
+
+
 ## **Data Understanding**
 
 #### **Dataset Explanation**
